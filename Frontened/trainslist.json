@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "name": "Jan Shatabdi Express",
+      "number": "12067",
+      "from": "Guwahati",
+      "to": "Jorhat Town",
+      "departure": "06:10",
+      "arrival": "13:00",
+      "duration": "06:50",
+      "date":"Sat, 29 Mar",
+      "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat"]
+    },
+    {
+      "id": 2,
+      "name": "Intercity Express",
+      "number": "15603",
+      "from": "Guwahati",
+      "to": "Ledo",
+      "departure": "23:30",
+      "arrival": "13:25",
+      "duration": "13:55",
+      "date":"Sun, 30 Mar",
+      "days": ["Daily"]
+    },
+    {
+      "id": 3,
+      "name": "BG Express",
+      "number": "15665",
+      "from": "Guwahati",
+      "to": "Mariani Jn",
+      "departure": "14:30",
+      "arrival": "23:15",
+      "duration": "08:45",
+      "date":"Sun, 30 Mar",
+      "days": ["Daily"]
+    },
+    {
+      "id": 4,
+      "name": "Saraighat Express",
+      "number": "12346",
+      "from": "Guwahati",
+      "to": "Howrah Jn",
+      "departure": "12:20",
+      "arrival": "05:15",
+      "duration": "16:55",
+      "date":"Sun, 30 Mar",
+      "days": ["Daily"]
+    },
+    {
+      "id": 5,
+      "name": "Guwahati Silchar Express",
+      "number": "15611",
+      "from": "Guwahati",
+      "to": "Silchar",
+      "departure": "17:30",
+      "arrival": "04:40",
+      "duration": "11:10",
+      "date":"Sun, 30 Mar",
+      "days": ["Mon", "Wed", "Sat"]
+    },
+    {
+      "id": 6,
+      "name": "Guwahati Bengaluru Cantt Exp",
+      "number": "12510",
+      "from": "Guwahati",
+      "to": "Bengaluru Cantt",
+      "departure": "06:20",
+      "arrival": "10:50",
+      "duration": "52:30",
+      "date":"Sun, 30 Mar",
+      "days": ["Tue", "Fri"]
+    },
+    {
+      "id": 7,
+      "name": "Avadh Assam Express",
+      "number": "15910",
+      "from": "Guwahati",
+      "to": "Dibrugarh",
+      "departure": "01:20",
+      "arrival": "10:30",
+      "duration": "09:10",
+      "date":"Sun, 30 Mar",
+      "days": ["Daily"]
+    },
+    {
+      "id": 8,
+      "name": "Kanchanjungha Express",
+      "number": "13173",
+      "from": "Guwahati",
+      "to": "Sabroom",
+      "departure": "02:55",
+      "arrival": "20:50",
+      "duration": "17:55",
+      "date":"Sun, 30 Mar",
+      "days": ["Tue", "Fri"]
+    },
+    {
+      "id": 9,
+      "name": "LTT Agartala AC SF Exp",
+      "number": "12519",
+      "from": "Guwahati",
+      "to": "Agartala",
+      "departure": "03:35",
+      "arrival": "17:20",
+      "duration": "13:45",
+      "date":"Sun, 30 Mar",
+      "days": ["Wed", "Sun"]
+    },
+    {
+      "id": 10,
+      "name": "NJP Guwahati Vande Bharat",
+      "number": "22227",
+      "from": "New Jalpaiguri",
+      "to": "Guwahati",
+      "departure": "06:10",
+      "arrival": "11:40",
+      "duration": "05:30",
+      "date":"Sun, 30 Mar",
+      "days": ["Wed", "Thu", "Fri", "Sat", "Sun"]
+    }
+  ]
+  

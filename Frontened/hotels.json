@@ -1,0 +1,39 @@
+[
+    {
+        "id":1,
+        "img":"./room1.jpg",
+        "location":"Kolkata",
+        "text":"RailSwift guest House"
+    },
+    {
+        "id": 2,
+        "img": "./room2.jpg",
+        "location": "Delhi",
+        "text": "Metro Comfort Inn"
+    },
+    {
+        "id": 3,
+        "img": "./room3.jpg",
+        "location": "Mumbai",
+        "text": "Seaview Residency"
+    },
+    {
+        "id": 4,
+        "img": "./room4.png",
+        "location": "Chennai",
+        "text": "Southern Star Lodge"
+    },
+    {
+        "id": 5,
+        "img": "./room6.jpg",
+        "location": "Bangalore",
+        "text": "Silicon Stay Suites"
+    },
+    {
+        "id": 6,
+        "img": "./room7.jpg",
+        "location": "Hyderabad",
+        "text": "Pearl City Inn"
+    }
+    
+]

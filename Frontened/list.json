@@ -1,0 +1,39 @@
+[
+    {
+      "id":1,
+      "img": "../public/Vandebharat.jpg",
+      "heading": "Vande Bharat Express",
+      "text": "Experience the future of Indian rail travel with the Vande Bharat Express. This high-speed, modern train is designed for comfort and efficiency, providing passengers with plush seating, advanced safety features, and onboard catering services. With RailSwift, booking your tickets for this revolutionary journey is seamless, allowing you to travel faster and smarter across the Indian landscape."
+    },
+    
+        {
+            "id":2,
+            "img": "../public/international.webp",
+            "heading": "International Packages",
+            "text": "Embark on a global adventure with our exclusive International Packages, curated to offer you unforgettable experiences around the world. From the vibrant streets of Europe to the serene landscapes of Asia, RailSwift has partnered with leading travel agencies to ensure you receive the best accommodations, guided tours, and transport options."
+        },
+        {
+            "id":3,
+            "img": "../public/Vanaras.jpg",
+            "heading": "Domestic Air Packages",
+            "text": "Take to the skies with our Domestic Air Packages, specially designed for those looking to explore the diverse beauty of India. Whether you’re heading to the lush hills of the North or the tranquil beaches of the South, RailSwift provides you with the best flight options, hassle-free booking, and exciting add-ons. Experience the rich culture"
+        },
+        {
+            "id":4,
+            "img": "../public/royal-heritage-haveli.jpg",
+            "heading": "Royal Heritage Journeys",
+            "text": "Step into a world of opulence with our Royal Heritage Journeys. Travel through India’s majestic palaces, forts, and ancient cities aboard luxurious trains that evoke the grandeur of royal heritage. With carefully curated itineraries, RailSwift ensures that you experience the rich history and culture of India in the most comfortable way possible."
+        },
+        {
+            "id":5,
+            "img": "../public/mountain.jpg",
+            "heading": "Rail Tour Packages",
+            "text": "Discover the scenic beauty of India with our Rail Tour Packages, crafted for avid travelers seeking adventure and exploration. From the snow-capped mountains of the Himalayas to the lush greenery of Western Ghats, these tours offer a unique way to see the country."
+        },
+        {
+            "id":6,
+            "img": "../public/desert.jpg",
+            "heading": "Desert Adventures",
+            "text": "Venture into the enchanting deserts of India with our Desert Adventures. Experience the magic of Rajasthan’s golden sands, vibrant culture, and historical sites through well-planned excursions. Enjoy camel rides, cultural performances, and traditional cuisine while RailSwift takes care of all your booking needs."
+        }
+]
